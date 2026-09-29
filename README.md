@@ -25,6 +25,10 @@ lazywslc
 - Context actions (start/stop/kill/remove/prune)
 - Auto-refresh
 
+## Support 
+
+Although I do work on the WSL team, this is being submitted as a community project from me personally (Craig Loewen) not as a representative of the WSL team. So this project will have community level support. Please treat it as you would any other open source community project.
+
 ## Contribute
 
 Feel free to fork and open PRs!
