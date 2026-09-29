@@ -6,6 +6,10 @@ A [**lazydocker-inspired**](https://github.com/jesseduffield/lazydocker) TUI das
 
 ## Install
 
+For now [install the latest from the GitHub releases page](https://github.com/craigloewen-msft/lazywslc/releases). 
+
+Winget support exists but its version is older and won't work well. [PR is in progress](https://github.com/microsoft/winget-pkgs/pull/441174). 
+
 ```powershell
 winget install crloewen.lazywslc
 ```
